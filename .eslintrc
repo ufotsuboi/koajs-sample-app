@@ -1,0 +1,6 @@
+{
+  "extends": ["airbnb-base"],
+  "rules": {
+    "require-yield": 0,
+  }
+}
